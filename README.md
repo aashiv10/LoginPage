@@ -1,5 +1,8 @@
 # Employee Management System (ASP.NET Web Forms)
 
+**Working Demo Video - https://mail.google.com/mail/u/0?ui=2&ik=bc5962e832&attid=0.1&permmsgid=msg-a:r-1287761923240297660&view=att&disp=safe&realattid=f_mmla38vn0&zw
+**SSMS - https://mail.google.com/mail/u/0?ui=2&ik=bc5962e832&attid=0.2&permmsgid=msg-a:r-1287761923240297660&view=att&disp=safe&realattid=f_mmlao4au1&zw
+
 A simple **ASP.NET WebForms application using SQL Server** that provides:
 
 - User Login
